@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "titova-ruslana-kt-42-22", "titova-ruslana-kt-42-22\titova-ruslana-kt-42-22.csproj", "{9032A36F-9AFC-47BD-9069-527DA0F5B14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9032A36F-9AFC-47BD-9069-527DA0F5B14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9032A36F-9AFC-47BD-9069-527DA0F5B14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9032A36F-9AFC-47BD-9069-527DA0F5B14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9032A36F-9AFC-47BD-9069-527DA0F5B14C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB2C3E4-4AD6-4CCB-844F-0B8BE2AF3534}
+	EndGlobalSection
+EndGlobal
